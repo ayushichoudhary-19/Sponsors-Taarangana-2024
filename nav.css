@@ -312,7 +312,7 @@ nav .close:hover div::after{
     width: 40px;
     height: 5px;
     background: #ffffff;
-    animation:shine_border 5s ease-in-out alternate infinite;
+    /* animation:shine_border 5s ease-in-out alternate infinite; */
   }
   
   .bars::before,
@@ -322,7 +322,7 @@ nav .close:hover div::after{
     width: 40px;
     height: 5px;
     background: #ffffff;
-    animation:shine_border 2s ease-in-out alternate infinite;
+    /* animation:shine_border 2s ease-in-out alternate infinite; */
   }
   
   .bars::before{
@@ -357,5 +357,6 @@ nav .close:hover div::after{
     nav .close{
       right: 10%;
     }
+
 }
 
