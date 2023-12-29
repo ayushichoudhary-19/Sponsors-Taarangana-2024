@@ -400,6 +400,9 @@ h1 {
     height: 220px;
     object-fit: fill;
   }
+  #hugehead{
+    padding-bottom: 2px;
+  }
   .food {
     width: 10px;
     height: 10px;
